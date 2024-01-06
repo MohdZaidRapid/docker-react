@@ -19,6 +19,12 @@ function App() {
           <Link to="/create" className="navbar_link">
             Share
           </Link>
+          <Link to="/create" className="navbar_link">
+            Popular
+          </Link>
+          <Link to="/create" className="navbar_link">
+            Anime
+          </Link>
         </div>
       </nav>
 
